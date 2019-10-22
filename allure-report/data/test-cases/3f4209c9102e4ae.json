@@ -1,0 +1,64 @@
+{
+  "uid" : "3f4209c9102e4ae",
+  "name" : "Total points should not print more thne 20 digit:",
+  "fullName" : "waynn home page test.Total points should not print more thne 20 digit:",
+  "historyId" : "3821888787ed216778aa2af4544a934c",
+  "time" : {
+    "start" : 1571682481815,
+    "stop" : 1571682490226,
+    "duration" : 8411
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '123456789012345678901' to be 'points out of window'.",
+  "statusTrace" : "Error: Failed expectation\n                    at C:\\Users\\c-tandelV\\Documents\\BitBucket\\wynn5.2\\IGTTechServicesTestAutomation\\test_spec\\Wynn5.2_spec.js:132:26\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n                    at C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at process._tickCallback (internal/process/next_tick.js:68:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '123456789012345678901' to be 'points out of window'.",
+    "statusTrace" : "Error: Failed expectation\n                    at C:\\Users\\c-tandelV\\Documents\\BitBucket\\wynn5.2\\IGTTechServicesTestAutomation\\test_spec\\Wynn5.2_spec.js:132:26\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n                    at C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at process._tickCallback (internal/process/next_tick.js:68:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "54280c9473cf186c",
+      "name" : "Screenshot",
+      "source" : "54280c9473cf186c.png",
+      "type" : "image/png",
+      "size" : 81943
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testClass",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Total points should not print more thne 20 digit:"
+  }, {
+    "name" : "package",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f4209c9102e4ae.json",
+  "parameterValues" : [ ]
+}

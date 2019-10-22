@@ -1,0 +1,60 @@
+{
+  "uid" : "c60e55006b6285ac",
+  "name" : "Total-point shloud be null (should not be 0):",
+  "fullName" : "waynn home page test.Total-point shloud be null (should not be 0):",
+  "historyId" : "47e6febd021700107adb9eb7f263f513",
+  "time" : {
+    "start" : 1571680809241,
+    "stop" : 1571680817657,
+    "duration" : 8416
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "390db08b493af403",
+      "name" : "Screenshot",
+      "source" : "390db08b493af403.png",
+      "type" : "image/png",
+      "size" : 76324
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testClass",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Total-point shloud be null (should not be 0):"
+  }, {
+    "name" : "package",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c60e55006b6285ac.json",
+  "parameterValues" : [ ]
+}

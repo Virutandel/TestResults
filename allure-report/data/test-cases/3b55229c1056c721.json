@@ -1,0 +1,175 @@
+{
+  "uid" : "3b55229c1056c721",
+  "name" : "Total-Point 900 should be 900:",
+  "fullName" : "waynn home page test.Total-Point 900 should be 900:",
+  "historyId" : "e764f091d4b45daa722ca0706a3a2c9c",
+  "time" : {
+    "start" : 1571763561652,
+    "stop" : 1571763570345,
+    "duration" : 8693
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "682c46487e2d0007",
+      "name" : "Screenshot",
+      "source" : "682c46487e2d0007.png",
+      "type" : "image/png",
+      "size" : 119904
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testClass",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Total-Point 900 should be 900:"
+  }, {
+    "name" : "package",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2b33a50479e46e0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571762831588,
+        "stop" : 1571762840283,
+        "duration" : 8695
+      }
+    }, {
+      "uid" : "5a790a5ecea9278f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571762589529,
+        "stop" : 1571762597842,
+        "duration" : 8313
+      }
+    }, {
+      "uid" : "c27d46a92709be6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571692039864,
+        "stop" : 1571692048115,
+        "duration" : 8251
+      }
+    }, {
+      "uid" : "fb0927fc80874d97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571691723606,
+        "stop" : 1571691731788,
+        "duration" : 8182
+      }
+    }, {
+      "uid" : "6a842844c32b46d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571691615020,
+        "stop" : 1571691623333,
+        "duration" : 8313
+      }
+    }, {
+      "uid" : "786274001cb3e349",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571691229295,
+        "stop" : 1571691237431,
+        "duration" : 8136
+      }
+    }, {
+      "uid" : "5a318396ab5e4076",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571690622632,
+        "stop" : 1571690630915,
+        "duration" : 8283
+      }
+    }, {
+      "uid" : "339b538dabc12e5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571687046662,
+        "stop" : 1571687054831,
+        "duration" : 8169
+      }
+    }, {
+      "uid" : "e38b1984aaa3eefb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571685828740,
+        "stop" : 1571685836869,
+        "duration" : 8129
+      }
+    }, {
+      "uid" : "10d6483374cd4be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571682673358,
+        "stop" : 1571682681454,
+        "duration" : 8096
+      }
+    }, {
+      "uid" : "276e742e2dab8bbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571682440986,
+        "stop" : 1571682449147,
+        "duration" : 8161
+      }
+    }, {
+      "uid" : "f09ba8e2503976ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571681139714,
+        "stop" : 1571681148154,
+        "duration" : 8440
+      }
+    }, {
+      "uid" : "387aeaed2de99525",
+      "status" : "failed",
+      "statusDetails" : "Expected '900' to be '90000'.",
+      "time" : {
+        "start" : 1571680997622,
+        "stop" : 1571681006194,
+        "duration" : 8572
+      }
+    }, {
+      "uid" : "2694a57dc8f340f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571680792299,
+        "stop" : 1571680800801,
+        "duration" : 8502
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b55229c1056c721.json",
+  "parameterValues" : [ ]
+}

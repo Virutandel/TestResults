@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected '@#$%' not to equal '@#$%'.",
+      "children" : [ {
+        "name" : "Total-points shloud not be @#$% (special characters)",
+        "uid" : "1f0cf98e2b620fef",
+        "parentUid" : "7de2a7b93af9c6e1c6b696680f483909",
+        "status" : "failed",
+        "time" : {
+          "start" : 1571763587790,
+          "stop" : 1571763596475,
+          "duration" : 8685
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7de2a7b93af9c6e1c6b696680f483909"
+    }, {
+      "name" : "Expected 'xyz' not to be 'xyz'.",
+      "children" : [ {
+        "name" : "Total-points shloud not be xyz (alphabet):",
+        "uid" : "c06eda42646a3ffd",
+        "parentUid" : "6d898120bdd1c908eac2503f631dbb67",
+        "status" : "failed",
+        "time" : {
+          "start" : 1571763596475,
+          "stop" : 1571763605205,
+          "duration" : 8730
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6d898120bdd1c908eac2503f631dbb67"
+    }, {
+      "name" : "Expected '123456789012345678901' to be 'points out of window'.",
+      "children" : [ {
+        "name" : "Total points should not print more thne 20 digit:",
+        "uid" : "7b262dbe6fb241a6",
+        "parentUid" : "68c6f09b229f8157fb661aa3ba5cf684",
+        "status" : "failed",
+        "time" : {
+          "start" : 1571763605205,
+          "stop" : 1571763613856,
+          "duration" : 8651
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "68c6f09b229f8157fb661aa3ba5cf684"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,196 @@
+{
+  "uid" : "1f0cf98e2b620fef",
+  "name" : "Total-points shloud not be @#$% (special characters)",
+  "fullName" : "waynn home page test.Total-points shloud not be @#$% (special characters)",
+  "historyId" : "a04592fb40fae7747843a1647d84806f",
+  "time" : {
+    "start" : 1571763587790,
+    "stop" : 1571763596475,
+    "duration" : 8685
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '@#$%' not to equal '@#$%'.",
+  "statusTrace" : "Error: Failed expectation\n                    at C:\\Users\\c-tandelV\\Documents\\BitBucket\\wynn5.2\\IGTTechServicesTestAutomation\\test_spec\\Wynn5.2_spec.js:99:30\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n                    at C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at process._tickCallback (internal/process/next_tick.js:68:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '@#$%' not to equal '@#$%'.",
+    "statusTrace" : "Error: Failed expectation\n                    at C:\\Users\\c-tandelV\\Documents\\BitBucket\\wynn5.2\\IGTTechServicesTestAutomation\\test_spec\\Wynn5.2_spec.js:99:30\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n                    at C:\\Users\\c-tandelV\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at process._tickCallback (internal/process/next_tick.js:68:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fa1cc242b105b792",
+      "name" : "Screenshot",
+      "source" : "fa1cc242b105b792.png",
+      "type" : "image/png",
+      "size" : 121210
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testClass",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Total-points shloud not be @#$% (special characters)"
+  }, {
+    "name" : "package",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "59310b137b819c75",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571762857769,
+        "stop" : 1571762866533,
+        "duration" : 8764
+      }
+    }, {
+      "uid" : "3cbc12a0014d79bf",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571762614374,
+        "stop" : 1571762622627,
+        "duration" : 8253
+      }
+    }, {
+      "uid" : "8287366f03dd0c53",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571692064613,
+        "stop" : 1571692072840,
+        "duration" : 8227
+      }
+    }, {
+      "uid" : "9607ec31943e505b",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571691748009,
+        "stop" : 1571691756187,
+        "duration" : 8178
+      }
+    }, {
+      "uid" : "137421a693a3a1a6",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571691639931,
+        "stop" : 1571691648194,
+        "duration" : 8263
+      }
+    }, {
+      "uid" : "5060ca049628795c",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571691253652,
+        "stop" : 1571691261698,
+        "duration" : 8046
+      }
+    }, {
+      "uid" : "61307b8630f85e8f",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571690647513,
+        "stop" : 1571690655844,
+        "duration" : 8331
+      }
+    }, {
+      "uid" : "2a8cdc6b143e9a8",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571687070998,
+        "stop" : 1571687079099,
+        "duration" : 8101
+      }
+    }, {
+      "uid" : "138a5b2345e0b4c0",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571685853100,
+        "stop" : 1571685861176,
+        "duration" : 8076
+      }
+    }, {
+      "uid" : "51718d05213c948e",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571682697671,
+        "stop" : 1571682705770,
+        "duration" : 8099
+      }
+    }, {
+      "uid" : "b2d12a3dda8c11eb",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571682465320,
+        "stop" : 1571682473453,
+        "duration" : 8133
+      }
+    }, {
+      "uid" : "ff78fad9f18c8827",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571681165084,
+        "stop" : 1571681173471,
+        "duration" : 8387
+      }
+    }, {
+      "uid" : "aa379788a0366b25",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571681023409,
+        "stop" : 1571681031838,
+        "duration" : 8429
+      }
+    }, {
+      "uid" : "c26f5db55bf74a27",
+      "status" : "failed",
+      "statusDetails" : "Expected '@#$%' not to equal '@#$%'.",
+      "time" : {
+        "start" : 1571680817658,
+        "stop" : 1571680826121,
+        "duration" : 8463
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1f0cf98e2b620fef.json",
+  "parameterValues" : [ ]
+}

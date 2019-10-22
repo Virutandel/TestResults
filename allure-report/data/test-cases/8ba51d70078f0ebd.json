@@ -1,0 +1,60 @@
+{
+  "uid" : "8ba51d70078f0ebd",
+  "name" : "synchronize browser",
+  "fullName" : "waynn home page test.synchronize browser",
+  "historyId" : "7aed3629d7d9b1256905e491a2851c35",
+  "time" : {
+    "start" : 1571690610923,
+    "stop" : 1571690622632,
+    "duration" : 11709
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bbb6b474e0a0ca29",
+      "name" : "Screenshot",
+      "source" : "bbb6b474e0a0ca29.png",
+      "type" : "image/png",
+      "size" : 40051
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testClass",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testMethod",
+    "value" : "synchronize browser"
+  }, {
+    "name" : "package",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ba51d70078f0ebd.json",
+  "parameterValues" : [ ]
+}

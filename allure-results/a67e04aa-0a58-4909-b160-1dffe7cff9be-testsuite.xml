@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1571768574768' stop='1571768638789'>
+    <name>waynn home page test</name>
+    <title>waynn home page test</title>
+    <test-cases>
+        <test-case start='1571768574769' status='passed' stop='1571768586627'>
+            <name>synchronize browser</name>
+            <title>synchronize browser</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d7f87de0-a38d-4716-8ac8-4f738e7fcd32-attachment.png' type='image/png' size='120451'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571768586628' status='passed' stop='1571768595365'>
+            <name>Total-Point 900 should be 900:</name>
+            <title>Total-Point 900 should be 900:</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='857d4ec8-cbcf-4af5-bb86-e1a6befdca92-attachment.png' type='image/png' size='119904'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571768595365' status='passed' stop='1571768604046'>
+            <name>Total-Point 100 should not be junk character + alphabet + random number</name>
+            <title>Total-Point 100 should not be junk character + alphabet + random number</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1e807de1-3dea-4203-9d9e-1599b4840b21-attachment.png' type='image/png' size='119518'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571768604047' status='passed' stop='1571768612777'>
+            <name>Total-point shloud be null (should not be 0):</name>
+            <title>Total-point shloud be null (should not be 0):</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fc458d24-9aaa-485f-a83e-0288ff48ce2f-attachment.png' type='image/png' size='118451'/>
+            </attachments>
+        </test-case>
+        <test-case start='1571768612777' status='failed' stop='1571768621475'>
+            <name>Total-points shloud not be @#$% (special characters)</name>
+            <title>Total-points shloud not be @#$% (special characters)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='35fd936d-83ac-4f4c-9524-68a3eab382d0-attachment.png' type='image/png' size='121210'/>
+            </attachments>
+            <failure>
+                <message>Expected '@#$%' not to equal '@#$%'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\c-tandelV\Documents\BitBucket\wynn5.2\IGTTechServicesTestAutomation\test_spec\Wynn5.2_spec.js:99:30
+                    at ManagedPromise.invokeCallback_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at asyncRun (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)
+                    at C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:68:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1571768621476' status='failed' stop='1571768630143'>
+            <name>Total-points shloud not be xyz (alphabet):</name>
+            <title>Total-points shloud not be xyz (alphabet):</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ef8b0834-f45f-495e-95a8-d75d9cf7a779-attachment.png' type='image/png' size='119662'/>
+            </attachments>
+            <failure>
+                <message>Expected 'xyz' not to be 'xyz'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\c-tandelV\Documents\BitBucket\wynn5.2\IGTTechServicesTestAutomation\test_spec\Wynn5.2_spec.js:116:30
+                    at ManagedPromise.invokeCallback_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at asyncRun (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)
+                    at C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:68:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1571768630143' status='failed' stop='1571768638784'>
+            <name>Total points should not print more thne 20 digit:</name>
+            <title>Total points should not print more thne 20 digit:</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d4728cc7-6e35-456a-92ef-4194fb9e7d7e-attachment.png' type='image/png' size='124523'/>
+            </attachments>
+            <failure>
+                <message>Expected '123456789012345678901' to be 'points out of window'.</message>
+                <stack-trace>Error: Failed expectation
+                    at C:\Users\c-tandelV\Documents\BitBucket\wynn5.2\IGTTechServicesTestAutomation\test_spec\Wynn5.2_spec.js:132:26
+                    at ManagedPromise.invokeCallback_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at asyncRun (C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)
+                    at C:\Users\c-tandelV\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:68:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

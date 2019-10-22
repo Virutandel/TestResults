@@ -1,0 +1,71 @@
+[ {
+  "uid" : "7b262dbe6fb241a6",
+  "name" : "Total points should not print more thne 20 digit:",
+  "time" : {
+    "start" : 1571763605205,
+    "stop" : 1571763613856,
+    "duration" : 8651
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c06eda42646a3ffd",
+  "name" : "Total-points shloud not be xyz (alphabet):",
+  "time" : {
+    "start" : 1571763596475,
+    "stop" : 1571763605205,
+    "duration" : 8730
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f945ff2cb9c62b",
+  "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+  "time" : {
+    "start" : 1571763570346,
+    "stop" : 1571763579104,
+    "duration" : 8758
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b55229c1056c721",
+  "name" : "Total-Point 900 should be 900:",
+  "time" : {
+    "start" : 1571763561652,
+    "stop" : 1571763570345,
+    "duration" : 8693
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "721fead7ad215a9f",
+  "name" : "Total-point shloud be null (should not be 0):",
+  "time" : {
+    "start" : 1571763579104,
+    "stop" : 1571763587789,
+    "duration" : 8685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2002f744de4401e",
+  "name" : "synchronize browser",
+  "time" : {
+    "start" : 1571763549917,
+    "stop" : 1571763561650,
+    "duration" : 11733
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f0cf98e2b620fef",
+  "name" : "Total-points shloud not be @#$% (special characters)",
+  "time" : {
+    "start" : 1571763587790,
+    "stop" : 1571763596475,
+    "duration" : 8685
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

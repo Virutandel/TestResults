@@ -1,0 +1,1370 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "721fead7ad215a9f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571763579104,
+      "stop" : 1571763587789,
+      "duration" : 8685
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "c06eda42646a3ffd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571763596475,
+      "stop" : 1571763605205,
+      "duration" : 8730
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "d1fda26b567cbd0a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571681014979,
+      "stop" : 1571681023409,
+      "duration" : 8430
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "8ba51d70078f0ebd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571690610923,
+      "stop" : 1571690622632,
+      "duration" : 11709
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "3f4209c9102e4ae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571682481815,
+      "stop" : 1571682490226,
+      "duration" : 8411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "2694a57dc8f340f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571680792299,
+      "stop" : 1571680800801,
+      "duration" : 8502
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "5a535a702092b0a4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571690639217,
+      "stop" : 1571690647513,
+      "duration" : 8296
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "c84f03ff616d87c4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571762819872,
+      "stop" : 1571762831586,
+      "duration" : 11714
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "e9ed076ab0834588",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571681040532,
+      "stop" : 1571681049265,
+      "duration" : 8733
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "51718d05213c948e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571682697671,
+      "stop" : 1571682705770,
+      "duration" : 8099
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "e4fa33ab29c7535e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571687054831,
+      "stop" : 1571687062898,
+      "duration" : 8067
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "74ad09d0fd32c500",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691261698,
+      "stop" : 1571691269760,
+      "duration" : 8062
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "cb28c6e3fb803ff7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691656453,
+      "stop" : 1571691664745,
+      "duration" : 8292
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "9aa4c4de0f9f3cdc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571681006195,
+      "stop" : 1571681014979,
+      "duration" : 8784
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "c9d3169e131bdf5b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571680986009,
+      "stop" : 1571680997620,
+      "duration" : 11611
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "962988a4dc3d6116",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571685861176,
+      "stop" : 1571685869275,
+      "duration" : 8099
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "5055fd1449faf2e0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571681156631,
+      "stop" : 1571681165083,
+      "duration" : 8452
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "90f5cd4dba57aedf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571762866533,
+      "stop" : 1571762875199,
+      "duration" : 8666
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "edf93ee4b23f51c8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571682449147,
+      "stop" : 1571682457224,
+      "duration" : 8077
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "64b898893f763884",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571681173472,
+      "stop" : 1571681182165,
+      "duration" : 8693
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "fb0927fc80874d97",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691723606,
+      "stop" : 1571691731788,
+      "duration" : 8182
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "2b33a50479e46e0e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571762831588,
+      "stop" : 1571762840283,
+      "duration" : 8695
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "10d6483374cd4be",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571682673358,
+      "stop" : 1571682681454,
+      "duration" : 8096
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "92ff3f273d73dc36",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691648194,
+      "stop" : 1571691656453,
+      "duration" : 8259
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "6e51b24443f16e55",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571680834862,
+      "stop" : 1571680843528,
+      "duration" : 8666
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "276e742e2dab8bbc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571682440986,
+      "stop" : 1571682449147,
+      "duration" : 8161
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "2be3be37f8324067",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571682681454,
+      "stop" : 1571682689594,
+      "duration" : 8140
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "d18b222a2ba4dd0e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571692056372,
+      "stop" : 1571692064613,
+      "duration" : 8241
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "19387ee9f8d774a2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571681148155,
+      "stop" : 1571681156631,
+      "duration" : 8476
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "bb60411ce9b98d99",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691631636,
+      "stop" : 1571691639931,
+      "duration" : 8295
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "db4934d80e0ee349",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571682473454,
+      "stop" : 1571682481815,
+      "duration" : 8361
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "5a318396ab5e4076",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571690622632,
+      "stop" : 1571690630915,
+      "duration" : 8283
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "27a0b03d127132f4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691711922,
+      "stop" : 1571691723605,
+      "duration" : 11683
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "4dee27fd998a7f70",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571762597842,
+      "stop" : 1571762606081,
+      "duration" : 8239
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "427a51b33c777d38",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571762622627,
+      "stop" : 1571762630846,
+      "duration" : 8219
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "16c7b09c82e86bad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571692072840,
+      "stop" : 1571692081028,
+      "duration" : 8188
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "8b0d9c0e08729c25",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571687034807,
+      "stop" : 1571687046662,
+      "duration" : 11855
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "9a884d76027f698b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691269760,
+      "stop" : 1571691277837,
+      "duration" : 8077
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "61307b8630f85e8f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571690647513,
+      "stop" : 1571690655844,
+      "duration" : 8331
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "5f2314ca94e66b03",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571682705770,
+      "stop" : 1571682713839,
+      "duration" : 8069
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "2a826efeb47461e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571685817053,
+      "stop" : 1571685828740,
+      "duration" : 11687
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "8287366f03dd0c53",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571692064613,
+      "stop" : 1571692072840,
+      "duration" : 8227
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "137421a693a3a1a6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691639931,
+      "stop" : 1571691648194,
+      "duration" : 8263
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "8e88b004c96c6f4f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571685844997,
+      "stop" : 1571685853100,
+      "duration" : 8103
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "59310b137b819c75",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571762857769,
+      "stop" : 1571762866533,
+      "duration" : 8764
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "bff0280d34a2d408",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571681128166,
+      "stop" : 1571681139711,
+      "duration" : 11545
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "e1a17a0e8877126f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571762849024,
+      "stop" : 1571762857768,
+      "duration" : 8744
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "339b538dabc12e5e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571687046662,
+      "stop" : 1571687054831,
+      "duration" : 8169
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "7c705ee87ef785bb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571681182166,
+      "stop" : 1571681190842,
+      "duration" : 8676
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "2ded5f1eb7b60b31",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571762630847,
+      "stop" : 1571762639096,
+      "duration" : 8249
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "a0f225caa0724d45",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571682457224,
+      "stop" : 1571682465320,
+      "duration" : 8096
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "f71d6bf168521e94",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571680780761,
+      "stop" : 1571680792297,
+      "duration" : 11536
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "154f2ba53dc958e0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571687079099,
+      "stop" : 1571687087206,
+      "duration" : 8107
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "8f945ff2cb9c62b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571763570346,
+      "stop" : 1571763579104,
+      "duration" : 8758
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "786274001cb3e349",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691229295,
+      "stop" : 1571691237431,
+      "duration" : 8136
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "6a842844c32b46d0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691615020,
+      "stop" : 1571691623333,
+      "duration" : 8313
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "5a790a5ecea9278f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571762589529,
+      "stop" : 1571762597842,
+      "duration" : 8313
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "7897ee06fac61529",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571690664153,
+      "stop" : 1571690672405,
+      "duration" : 8252
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "2a8cdc6b143e9a8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571687070998,
+      "stop" : 1571687079099,
+      "duration" : 8101
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "97db4090621ef472",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571687087206,
+      "stop" : 1571687095278,
+      "duration" : 8072
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "3b55229c1056c721",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571763561652,
+      "stop" : 1571763570345,
+      "duration" : 8693
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "e3fb74dce441da67",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571687062898,
+      "stop" : 1571687070998,
+      "duration" : 8100
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "1f0cf98e2b620fef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571763587790,
+      "stop" : 1571763596475,
+      "duration" : 8685
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "9607ec31943e505b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691748009,
+      "stop" : 1571691756187,
+      "duration" : 8178
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "4c83ecf063fbc982",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691739936,
+      "stop" : 1571691748009,
+      "duration" : 8073
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "9ec959f6732a7db2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571690630915,
+      "stop" : 1571690639217,
+      "duration" : 8302
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "5060ca049628795c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691253652,
+      "stop" : 1571691261698,
+      "duration" : 8046
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "15b8c56d34b98e90",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691731788,
+      "stop" : 1571691739936,
+      "duration" : 8148
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "5a2ebdca1ac7ba7b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571680826122,
+      "stop" : 1571680834862,
+      "duration" : 8740
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "e38b1984aaa3eefb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571685828740,
+      "stop" : 1571685836869,
+      "duration" : 8129
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "7b262dbe6fb241a6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571763605205,
+      "stop" : 1571763613856,
+      "duration" : 8651
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "4a06d04f85bcf3f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691764363,
+      "stop" : 1571691772546,
+      "duration" : 8183
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "e815d0471587749b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691245528,
+      "stop" : 1571691253652,
+      "duration" : 8124
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "f09ba8e2503976ba",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571681139714,
+      "stop" : 1571681148154,
+      "duration" : 8440
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "a2002f744de4401e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571763549917,
+      "stop" : 1571763561650,
+      "duration" : 11733
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "aa379788a0366b25",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571681023409,
+      "stop" : 1571681031838,
+      "duration" : 8429
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "76cffff39615cd79",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691623333,
+      "stop" : 1571691631635,
+      "duration" : 8302
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "1b7d411892c37c41",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571682713839,
+      "stop" : 1571682721940,
+      "duration" : 8101
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "be4ff76f2ef85252",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571762840284,
+      "stop" : 1571762849023,
+      "duration" : 8739
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "138a5b2345e0b4c0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571685853100,
+      "stop" : 1571685861176,
+      "duration" : 8076
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "1462b7fe46480c22",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691603318,
+      "stop" : 1571691615020,
+      "duration" : 11702
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "2ed371f26dee7612",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571685836869,
+      "stop" : 1571685844997,
+      "duration" : 8128
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "ff78fad9f18c8827",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571681165084,
+      "stop" : 1571681173471,
+      "duration" : 8387
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "3cbc12a0014d79bf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571762614374,
+      "stop" : 1571762622627,
+      "duration" : 8253
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "dce6e4935a06d524",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571762606081,
+      "stop" : 1571762614374,
+      "duration" : 8293
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "6bb37631fd0317b6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571762577729,
+      "stop" : 1571762589529,
+      "duration" : 11800
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "9d5e3ee4f706c2e6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571762875199,
+      "stop" : 1571762883955,
+      "duration" : 8756
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "be0ab37d0a12a3f5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571685869275,
+      "stop" : 1571685877367,
+      "duration" : 8092
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "c26f5db55bf74a27",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571680817658,
+      "stop" : 1571680826121,
+      "duration" : 8463
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "f457cb9feaeb160f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571682661796,
+      "stop" : 1571682673357,
+      "duration" : 11561
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "c27d46a92709be6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571692039864,
+      "stop" : 1571692048115,
+      "duration" : 8251
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "add98434dd95dd75",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571691756187,
+      "stop" : 1571691764363,
+      "duration" : 8176
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be @#$% (special characters)",
+    "uid" : "b2d12a3dda8c11eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571682465320,
+      "stop" : 1571682473453,
+      "duration" : 8133
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "b94fdd3d910a8e94",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571680800802,
+      "stop" : 1571680809241,
+      "duration" : 8439
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "61559126315953c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571682429407,
+      "stop" : 1571682440986,
+      "duration" : 11579
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "6e4af8347626fe27",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691217719,
+      "stop" : 1571691229295,
+      "duration" : 11576
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "a7f405c431d43e4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571691237431,
+      "stop" : 1571691245528,
+      "duration" : 8097
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "c60e55006b6285ac",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571680809241,
+      "stop" : 1571680817657,
+      "duration" : 8416
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+    "uid" : "51dc46e7741dcba",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571692048115,
+      "stop" : 1571692056372,
+      "duration" : 8257
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "c080b4de5dfba031",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571681031839,
+      "stop" : 1571681040531,
+      "duration" : 8692
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-points shloud not be xyz (alphabet):",
+    "uid" : "7244e38b0712245f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571690655844,
+      "stop" : 1571690664153,
+      "duration" : 8309
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-Point 900 should be 900:",
+    "uid" : "387aeaed2de99525",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571680997622,
+      "stop" : 1571681006194,
+      "duration" : 8572
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total points should not print more thne 20 digit:",
+    "uid" : "1e7b8e1c8a01ec8d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571692081028,
+      "stop" : 1571692089256,
+      "duration" : 8228
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "synchronize browser",
+    "uid" : "33c6ddbd23da698e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571692028155,
+      "stop" : 1571692039864,
+      "duration" : 11709
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Total-point shloud be null (should not be 0):",
+    "uid" : "d2294dbf7d98e252",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571682689594,
+      "stop" : 1571682697671,
+      "duration" : 8077
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

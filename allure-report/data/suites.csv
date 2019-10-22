@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Oct 22 10:00:05 PDT 2019","Tue Oct 22 10:00:13 PDT 2019","8651","","waynn home page test","","waynn home page test","Total points should not print more thne 20 digit:","Total points should not print more thne 20 digit:",""
+"failed","Tue Oct 22 09:59:56 PDT 2019","Tue Oct 22 10:00:05 PDT 2019","8730","","waynn home page test","","waynn home page test","Total-points shloud not be xyz (alphabet):","Total-points shloud not be xyz (alphabet):",""
+"passed","Tue Oct 22 09:59:30 PDT 2019","Tue Oct 22 09:59:39 PDT 2019","8758","","waynn home page test","","waynn home page test","Total-Point 100 should not be junk character + alphabet + random number","Total-Point 100 should not be junk character + alphabet + random number",""
+"passed","Tue Oct 22 09:59:21 PDT 2019","Tue Oct 22 09:59:30 PDT 2019","8693","","waynn home page test","","waynn home page test","Total-Point 900 should be 900:","Total-Point 900 should be 900:",""
+"passed","Tue Oct 22 09:59:39 PDT 2019","Tue Oct 22 09:59:47 PDT 2019","8685","","waynn home page test","","waynn home page test","Total-point shloud be null (should not be 0):","Total-point shloud be null (should not be 0):",""
+"passed","Tue Oct 22 09:59:09 PDT 2019","Tue Oct 22 09:59:21 PDT 2019","11733","","waynn home page test","","waynn home page test","synchronize browser","synchronize browser",""
+"failed","Tue Oct 22 09:59:47 PDT 2019","Tue Oct 22 09:59:56 PDT 2019","8685","","waynn home page test","","waynn home page test","Total-points shloud not be @#$% (special characters)","Total-points shloud not be @#$% (special characters)",""

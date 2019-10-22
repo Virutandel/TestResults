@@ -1,0 +1,174 @@
+{
+  "uid" : "a2002f744de4401e",
+  "name" : "synchronize browser",
+  "fullName" : "waynn home page test.synchronize browser",
+  "historyId" : "7aed3629d7d9b1256905e491a2851c35",
+  "time" : {
+    "start" : 1571763549917,
+    "stop" : 1571763561650,
+    "duration" : 11733
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "246615bc03f90f09",
+      "name" : "Screenshot",
+      "source" : "246615bc03f90f09.png",
+      "type" : "image/png",
+      "size" : 39674
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testClass",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "testMethod",
+    "value" : "synchronize browser"
+  }, {
+    "name" : "package",
+    "value" : "waynn home page test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c84f03ff616d87c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571762819872,
+        "stop" : 1571762831586,
+        "duration" : 11714
+      }
+    }, {
+      "uid" : "6bb37631fd0317b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571762577729,
+        "stop" : 1571762589529,
+        "duration" : 11800
+      }
+    }, {
+      "uid" : "33c6ddbd23da698e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571692028155,
+        "stop" : 1571692039864,
+        "duration" : 11709
+      }
+    }, {
+      "uid" : "27a0b03d127132f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571691711922,
+        "stop" : 1571691723605,
+        "duration" : 11683
+      }
+    }, {
+      "uid" : "1462b7fe46480c22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571691603318,
+        "stop" : 1571691615020,
+        "duration" : 11702
+      }
+    }, {
+      "uid" : "6e4af8347626fe27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571691217719,
+        "stop" : 1571691229295,
+        "duration" : 11576
+      }
+    }, {
+      "uid" : "8ba51d70078f0ebd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571690610923,
+        "stop" : 1571690622632,
+        "duration" : 11709
+      }
+    }, {
+      "uid" : "8b0d9c0e08729c25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571687034807,
+        "stop" : 1571687046662,
+        "duration" : 11855
+      }
+    }, {
+      "uid" : "2a826efeb47461e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571685817053,
+        "stop" : 1571685828740,
+        "duration" : 11687
+      }
+    }, {
+      "uid" : "f457cb9feaeb160f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571682661796,
+        "stop" : 1571682673357,
+        "duration" : 11561
+      }
+    }, {
+      "uid" : "61559126315953c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571682429407,
+        "stop" : 1571682440986,
+        "duration" : 11579
+      }
+    }, {
+      "uid" : "bff0280d34a2d408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571681128166,
+        "stop" : 1571681139711,
+        "duration" : 11545
+      }
+    }, {
+      "uid" : "c9d3169e131bdf5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571680986009,
+        "stop" : 1571680997620,
+        "duration" : 11611
+      }
+    }, {
+      "uid" : "f71d6bf168521e94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571680780761,
+        "stop" : 1571680792297,
+        "duration" : 11536
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2002f744de4401e.json",
+  "parameterValues" : [ ]
+}

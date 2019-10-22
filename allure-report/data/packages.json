@@ -1,0 +1,100 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "waynn home page test",
+    "children" : [ {
+      "name" : "synchronize browser",
+      "uid" : "a2002f744de4401e",
+      "parentUid" : "aa2716070ffc35b5ad5a5f83f64a8a36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571763549917,
+        "stop" : 1571763561650,
+        "duration" : 11733
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Total-Point 900 should be 900:",
+      "uid" : "3b55229c1056c721",
+      "parentUid" : "aa2716070ffc35b5ad5a5f83f64a8a36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571763561652,
+        "stop" : 1571763570345,
+        "duration" : 8693
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Total-Point 100 should not be junk character + alphabet + random number",
+      "uid" : "8f945ff2cb9c62b",
+      "parentUid" : "aa2716070ffc35b5ad5a5f83f64a8a36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571763570346,
+        "stop" : 1571763579104,
+        "duration" : 8758
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Total-point shloud be null (should not be 0):",
+      "uid" : "721fead7ad215a9f",
+      "parentUid" : "aa2716070ffc35b5ad5a5f83f64a8a36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571763579104,
+        "stop" : 1571763587789,
+        "duration" : 8685
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Total-points shloud not be @#$% (special characters)",
+      "uid" : "1f0cf98e2b620fef",
+      "parentUid" : "aa2716070ffc35b5ad5a5f83f64a8a36",
+      "status" : "failed",
+      "time" : {
+        "start" : 1571763587790,
+        "stop" : 1571763596475,
+        "duration" : 8685
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Total-points shloud not be xyz (alphabet):",
+      "uid" : "c06eda42646a3ffd",
+      "parentUid" : "aa2716070ffc35b5ad5a5f83f64a8a36",
+      "status" : "failed",
+      "time" : {
+        "start" : 1571763596475,
+        "stop" : 1571763605205,
+        "duration" : 8730
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Total points should not print more thne 20 digit:",
+      "uid" : "7b262dbe6fb241a6",
+      "parentUid" : "aa2716070ffc35b5ad5a5f83f64a8a36",
+      "status" : "failed",
+      "time" : {
+        "start" : 1571763605205,
+        "stop" : 1571763613856,
+        "duration" : 8651
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "aa2716070ffc35b5ad5a5f83f64a8a36"
+  } ]
+}
